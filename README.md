@@ -2,7 +2,7 @@ Codebase for [YouTube course]() for Spring Boot AI
 
 # Running instructions
 
-Run SpringAiTutorial class, providing an environment variable OPENAI_AI_KEY
+Run SpringAiTutorial class, providing an environment variable OPENAI_AI_KEY. Can be obtained from Open AI account settings.
 
 # What I learned
 
