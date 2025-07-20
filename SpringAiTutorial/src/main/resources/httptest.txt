@@ -1,0 +1,3 @@
+curl -X GET http://localhost:8080/api/v1/software-engineers
+
+curl -X POST http://localhost:8080/api/v1/software-engineers -H "Content-Type: application/json" -d '{"id": 1, "name": "Jack", "techStack": "java, spring, gradle"}'
